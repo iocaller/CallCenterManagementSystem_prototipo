@@ -10,7 +10,7 @@ Il nome del nostro sistema software di gestione di un call center è IOCaller So
 </p>
 
 # Il documento completo (Ciclo di realizzazione del Software)
-La documentazione è consultabile al seguente <a href="https://github.com/IS-unina/canale-san-giovanni-team_9/blob/master/Documento_IS.pdf">link</a><br>
+La documentazione è consultabile al seguente <a href="https://github.com/iocaller/CallCenterManagementSystem_prototipo/blob/main/Documento_IS.pdf">link</a><br>
 Il documento realizzato è suddiviso in sezioni:
 - *Introduzione*
 - *Documentazione della specifica dei dati*
@@ -32,14 +32,14 @@ La realizzazione del diagramma dei Package Completo è stata ottenuta a partire 
 -	Classe *DAO (Interazione con il Database)*
 
 <p align="center">
-  <img src="https://github.com/IS-unina/canale-san-giovanni-team_9/blob/master/Diagrammi/Class%20Diagram.png">
+  <img src="https://github.com/iocaller/CallCenterManagementSystem_prototipo/blob/main/Diagrammi/Class%20Diagram.png">
 </p>
 
 
 # Dal Class Diagram Package alla realizzazione del Software
 Si mostra la gerarchia delle interfacce realizzate del Software, (invitiamo ovviamente al lettore che questo grafico è il risultato di un'implementazine completa presente nella repository)
 <p align="center">
-  <img src="https://github.com/IS-unina/canale-san-giovanni-team_9/blob/master/Diagrammi/GerachiaInterfaccia.JPG">
+  <img src="https://github.com/iocaller/CallCenterManagementSystem_prototipo/blob/main/Diagrammi/GerachiaInterfaccia.JPG">
 </p>
 
 
