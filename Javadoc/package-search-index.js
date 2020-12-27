@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"CallCenterManagement.Boundary"},{"l":"CallCenterManagement.Controller"},{"l":"CallCenterManagement.Controller.Impl"},{"l":"CallCenterManagement.Dao"},{"l":"CallCenterManagement.Entity"}]
