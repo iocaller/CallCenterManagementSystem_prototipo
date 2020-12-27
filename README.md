@@ -46,8 +46,8 @@ Si mostra la gerarchia delle interfacce realizzate del Software, (invitiamo ovvi
 
 # Prova ad eseguire il nostro programmino di prova
 È possibile provare il programma realizzato seguendo i seguenti passi
-- <a href="https://github.com/IS-unina/canale-san-giovanni-team_9/blob/master/IOCaller.jar">Scaricare il file.jar</a> 
-- <a href="https://github.com/IS-unina/canale-san-giovanni-team_9/tree/master/Database">Scaricare il database</a>
+- <a href="https://github.com/iocaller/CallCenterManagementSystem_prototipo/blob/main/IOCaller.jar">Scaricare il file.jar</a> 
+- <a href="https://github.com/iocaller/CallCenterManagementSystem_prototipo/blob/main/Database">Scaricare il database</a>
 
 ## Prerequisiti
 - Java Virtual Machine
