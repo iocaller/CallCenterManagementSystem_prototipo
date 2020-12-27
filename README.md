@@ -6,7 +6,7 @@ Si analizzeranno gli strumenti ed i sistemi che consentiranno il raggiungimento 
 Il nome del nostro sistema software di gestione di un call center è IOCaller Software System (aiokôlər) l’acronimo IO sta ad indicare “**Inbound e Outbound**” ove indicano le due classificazioni dei centralinisti. Sottostante una proposta di logo del sistema software in questione.
 
 <p align="center">
-  <img src="https://github.com/IS-unina/canale-san-giovanni-team_9/blob/master/GestioneCallCenter/images/logo.png">
+  <img src="https://github.com/iocaller/CallCenterManagementSystem_prototipo/blob/main/GestioneCallCenter/images/logo.png">
 </p>
 
 # Il documento completo (Ciclo di realizzazione del Software)
